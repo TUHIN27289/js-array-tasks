@@ -1,4 +1,4 @@
-# js-array-tasks
+<!-- # js-array-tasks
 
 ### 1. Declare an array 
 1. Declare an array with 5 elements containing fruits
@@ -6,6 +6,11 @@
 3. change the value of the 2nd index element to jambura
 4. console log the final array
 
+ -->
+
+
+
+<!-- 
 ---
 ### 2. Add or remove elements
 1. Declare an array of 3 tourist destinations
@@ -14,8 +19,10 @@
 4. Remove the last tourist destination you have added
 5. display the final array as output
 
----
+--- -->
 
+
+<!-- 
 ### 3. Checking Array Membership with ‘includes’
 
 **Instructions:**
@@ -26,8 +33,12 @@
 
 3. Print a message to the console indicating whether the element is present in the array or not.
 
----
+--- -->
 
+
+
+
+<!-- 
 ### 4. Checking if it's an Array
 
 **Instructions:**
@@ -38,12 +49,16 @@
 
 3. Print a message to the console indicating whether each variable is an array or not.
 
-----
+---- -->
 
-### 5. Combining Arrays
+
+
+
+
+<!-- ### 5. Combining Arrays
 
 **Instructions:**
 
 1. Create two arrays of your choice.
 2. Use the concat method to combine the two arrays into a new array.
-3. Print both the original arrays and the combined array using console.log().
+3. Print both the original arrays and the combined array using console.log(). -->
